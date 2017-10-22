@@ -1,0 +1,114 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Dec 31, 2016, 12:02:30 PM
+    Author     : jimstewart
+*/
+
+
+p {
+    width: 500px;
+    font-family: monospace;
+}
+
+pre {
+    font-family: monospace;
+}
+img {
+    max-height: 600px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: sans-serif;
+}
+
+#frontPage {
+    width: 810px;
+    margin: 0 auto;
+    border: 1px solid black;
+    position: relative;
+    display: flex;
+    
+}
+
+#LeftFrontPage {
+    width: 395px;
+    margin:5px;
+    border: 1px solid black;
+    display: flex;
+}
+
+#rightfrontpage {
+    width: 395px;
+    margin:5px;
+    border: 1px solid black;
+}
+
+.frontPageImage {
+    width: 375px;
+    margin: 10px;
+}
+
+figure {
+    display: block;
+    margin: 10px;
+}
+
+figcaption {
+    font-family: sans-serif;
+}
+
+.pageContent {
+    margin: 20px;
+}
+
+a.toc {
+    color: black;
+    font-size: 1.2em;
+}
+
+.contentImage {
+
+}
+
+.smallText {
+    font-family: sans-serif;
+    font-size: 0.7em;
+}
+
+.sansSerif {
+    font-family: sans-serif;
+}
+
+.tocColumn {
+    margin: 12px;
+}
+
+.magazineTitle {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.traynor {
+    color: #701f28;
+    font-family: sans-serif;
+}
+
+a.magazineTitle {
+    color: black;
+}
+a:visited {
+    font-color: #666666;
+}
